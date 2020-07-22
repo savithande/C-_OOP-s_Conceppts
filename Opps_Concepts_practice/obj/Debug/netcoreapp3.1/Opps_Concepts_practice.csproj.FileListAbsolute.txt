@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Opps_Concepts_practice\Opps_Concepts_practice\bin\Debug\netcoreapp3.1\Opps_Concepts_practice.exe
+C:\Users\user\source\repos\Opps_Concepts_practice\Opps_Concepts_practice\bin\Debug\netcoreapp3.1\Opps_Concepts_practice.deps.json
+C:\Users\user\source\repos\Opps_Concepts_practice\Opps_Concepts_practice\bin\Debug\netcoreapp3.1\Opps_Concepts_practice.runtimeconfig.json
+C:\Users\user\source\repos\Opps_Concepts_practice\Opps_Concepts_practice\bin\Debug\netcoreapp3.1\Opps_Concepts_practice.runtimeconfig.dev.json
+C:\Users\user\source\repos\Opps_Concepts_practice\Opps_Concepts_practice\bin\Debug\netcoreapp3.1\Opps_Concepts_practice.dll
+C:\Users\user\source\repos\Opps_Concepts_practice\Opps_Concepts_practice\bin\Debug\netcoreapp3.1\Opps_Concepts_practice.pdb
+C:\Users\user\source\repos\Opps_Concepts_practice\Opps_Concepts_practice\obj\Debug\netcoreapp3.1\Opps_Concepts_practice.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Opps_Concepts_practice\Opps_Concepts_practice\obj\Debug\netcoreapp3.1\Opps_Concepts_practice.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Opps_Concepts_practice\Opps_Concepts_practice\obj\Debug\netcoreapp3.1\Opps_Concepts_practice.AssemblyInfo.cs
+C:\Users\user\source\repos\Opps_Concepts_practice\Opps_Concepts_practice\obj\Debug\netcoreapp3.1\Opps_Concepts_practice.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Opps_Concepts_practice\Opps_Concepts_practice\obj\Debug\netcoreapp3.1\Opps_Concepts_practice.dll
+C:\Users\user\source\repos\Opps_Concepts_practice\Opps_Concepts_practice\obj\Debug\netcoreapp3.1\Opps_Concepts_practice.pdb
+C:\Users\user\source\repos\Opps_Concepts_practice\Opps_Concepts_practice\obj\Debug\netcoreapp3.1\Opps_Concepts_practice.genruntimeconfig.cache

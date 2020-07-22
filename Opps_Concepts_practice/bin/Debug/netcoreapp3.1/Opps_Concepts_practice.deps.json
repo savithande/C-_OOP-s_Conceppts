@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Opps_Concepts_practice/1.0.0": {
+        "runtime": {
+          "Opps_Concepts_practice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Opps_Concepts_practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
